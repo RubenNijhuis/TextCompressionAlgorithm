@@ -1,0 +1,19 @@
+{
+    "name": "binary_tree",
+    "version": "1.0.0",
+    "main": "cli.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "cli-progress": "^3.3.1",
+        "lodash": "^4.17.15"
+    },
+    "bin": {
+        "HuffmanCoder": "./cli.js"
+    }
+}
